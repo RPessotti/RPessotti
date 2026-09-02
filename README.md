@@ -1,5 +1,5 @@
-<h1 align="center">Rafael Pessotti</h1>
-<p align="center"><b>Suporte Técnico & Infraestrutura de TI</b> · Estudante de Ciência da Computação</p>
+<h1 align="center">RAFAEL PESSOTTI DARÉ </h1>
+<p align="center"><b>Análise de Dados & Business Intelligence | Infraestrutura & Banco de Dados | Estudante de Ciência da Computação</p>
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 Sou estudante do **8º semestre de Ciência da Computação** na **UniAnchieta** (formatura em dezembro/2026), com experiência prática em **suporte técnico de TI, atendimento a chamados e infraestrutura de redes corporativas**. Tenho base sólida em fundamentos de redes (Cisco), Active Directory e sistemas operacionais Windows, além de conhecimentos complementares em banco de dados, cloud e Business Intelligence.
 
-Busco minha primeira posição efetiva na área, com foco em **Suporte Técnico / Infraestrutura de TI**, e venho construindo em paralelo uma base em **Análise de Dados e BI** como caminho de crescimento.
+Busco minha primeira oportunidade como Analista de Dados / BI, aplicando minha bagagem técnica em infraestrutura e bancos de dados para transformar dados em insights estratégicos e otimizar a tomada de decisão."
 
 <br>
 
