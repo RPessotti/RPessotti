@@ -38,7 +38,7 @@ Busco minha primeira oportunidade como Analista de Dados / BI, aplicando minha b
 
 ### 🚀 Atualmente
 
-- 🔍 Em busca de uma posição em **Suporte Técnico / Infraestrutura de TI**
+- 🔍 Em busca de uma posição em ** Análise de dados / Infraestrutura de TI**
 - 🌐 Praticando fundamentos de redes com **Cisco Packet Tracer** (VLANs, roteamento, diagnóstico de falhas)
 - 🗄️ Estudando **SQL** (SQL Server, MySQL e SQLite) e consolidando fundamentos de **modelagem de dados**
 - 📊 Aprendendo **Power BI**, com um dashboard em andamento usando um dataset do Kaggle
