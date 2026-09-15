@@ -45,36 +45,23 @@ Busco minha primeira oportunidade como Analista de Dados / BI, aplicando minha b
 ---
 
 ### 🛠️ Stack principal
-
 <div align="center">
 
-### 🛠 Princípio da pilha
+**Redes e Sistemas**
 
-<div align="center">
+![](https://skillicons.dev/icons?i=windows)
 
-**Redes & Sistemas**
+**Banco de Dados**
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square&logo=serverfault&logoColor=white)
+![](https://skillicons.dev/icons?i=mysql,sqlite)
 
-**Banco de Dados & BI**
+**Cloud e Automação**
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![](https://skillicons.dev/icons?i=aws,py)
 
-**Cloud & Automação**
+**Ferramentas**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-**Produtividade & Colaboração**
-
-![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![](https://skillicons.dev/icons?i=git)
 
 </div>
 
