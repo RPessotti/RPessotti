@@ -45,22 +45,30 @@ Busco minha primeira oportunidade como Analista de Dados / BI, aplicando minha b
 ---
 
 ### 🛠️ Stack principal
+### 🛠 Princípio da pilha
+
 <div align="center">
 
 **Redes e Sistemas**
 
 ![](https://skillicons.dev/icons?i=windows)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square&logo=serverfault&logoColor=white)
 
-**Banco de Dados**
+**Banco de Dados & BI**
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![](https://skillicons.dev/icons?i=mysql,sqlite)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Cloud e Automação**
+**Cloud & Automação**
 
 ![](https://skillicons.dev/icons?i=aws,py)
 
-**Ferramentas**
+**Produtividade & Colaboração**
 
+![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat-square&logo=googleworkspace&logoColor=white)
 ![](https://skillicons.dev/icons?i=git)
 
 </div>
