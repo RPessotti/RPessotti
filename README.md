@@ -5,9 +5,6 @@
 
 [![Email](https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rpessotti04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-pessotti-563240323)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RPessotti)
-<!-- Se tiver o currículo hospedado em algum link público, descomente e ajuste a linha abaixo -->
-<!-- [![Currículo](https://img.shields.io/badge/CURR%C3%8DCULO-6f42c1?style=for-the-badge&logo=readdotcv&logoColor=white)](LINK_DO_CURRICULO) -->
 
 </div>
 
