@@ -48,6 +48,10 @@ Busco minha primeira oportunidade como Analista de Dados / BI, aplicando minha b
 
 <div align="center">
 
+### 🛠 Princípio da pilha
+
+<div align="center">
+
 **Redes & Sistemas**
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows11&logoColor=white)
@@ -73,7 +77,6 @@ Busco minha primeira oportunidade como Analista de Dados / BI, aplicando minha b
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
----
 
 ### 🎯 Áreas de interesse
 
